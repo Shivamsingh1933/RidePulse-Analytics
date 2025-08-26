@@ -38,3 +38,9 @@ Data Modeling → Define relationships, calculated fields, DAX measures
 Visualization → Build dashboards with drill-down analysis
 
 Insights Generation → Highlight business trends, KPIs, and recommendations
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/ac40ffa3-afcd-4740-bb0d-7b36f8a7a8b0" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/61eaf058-9bce-449d-a668-29a92b025145" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/3afa1c9c-aea0-42a4-af1d-1e982a4ce1a1" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/56eec371-33ba-47e4-88fc-e06868d07cea" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c5bffd2e-93a7-4da0-ab11-e72aa3078409" />
