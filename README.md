@@ -39,8 +39,8 @@ Visualization → Build dashboards with drill-down analysis
 
 Insights Generation → Highlight business trends, KPIs, and recommendations
 
-<img width="1309" height="901" alt="Image" src="https://github.com/user-attachments/assets/3c84b2bf-2b52-46a8-8610-ed8cec39742d" />
-<img width="1273" height="897" alt="Image" src="https://github.com/user-attachments/assets/0dc430f1-1300-443c-9868-bc841ad746ee" />
-<img width="1179" height="663" alt="Image" src="https://github.com/user-attachments/assets/0dee2acf-614d-46f6-8db9-f8ab5e9f52c4" />
-<img width="1193" height="653" alt="Image" src="https://github.com/user-attachments/assets/4d982439-c7a6-447b-9b5c-11cef9bcaf2b" />
-<img width="1170" height="643" alt="Image" src="https://github.com/user-attachments/assets/25b9aa80-e749-44b6-89d7-3a401788f9ab" />
+<img width="1000" height="901" alt="Image" src="https://github.com/user-attachments/assets/3c84b2bf-2b52-46a8-8610-ed8cec39742d" />
+<img width="1000" height="897" alt="Image" src="https://github.com/user-attachments/assets/0dc430f1-1300-443c-9868-bc841ad746ee" />
+<img width="1000" height="663" alt="Image" src="https://github.com/user-attachments/assets/0dee2acf-614d-46f6-8db9-f8ab5e9f52c4" />
+<img width="1000" height="653" alt="Image" src="https://github.com/user-attachments/assets/4d982439-c7a6-447b-9b5c-11cef9bcaf2b" />
+<img width="1000" height="643" alt="Image" src="https://github.com/user-attachments/assets/25b9aa80-e749-44b6-89d7-3a401788f9ab" />
